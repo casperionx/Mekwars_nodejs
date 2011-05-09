@@ -1,0 +1,13 @@
+[
+    
+    {
+        "name" : "Terra",
+        "x" : "0",
+        "y" : "0",
+        "original_owner" : "CS",
+        "current_owner" : "WOB",
+        "total_control_points" : "100"
+        
+    }
+    
+]

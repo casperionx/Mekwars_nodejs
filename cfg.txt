@@ -1,0 +1,12 @@
+{
+    
+    "server_name" : "Caspers Server",
+    "server_version_in_use" : "0.0.1",
+	"server_owner" : "Heath Carruthers",
+	"server_contact" : "fireflyx@bigpond.net.au",
+	"server_era" : "JIHAD",
+	"server_status" : "BETA",
+	"server_planet_data_file" : "planets.xml"
+	
+    
+}
